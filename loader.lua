@@ -1,0 +1,2 @@
+--loader.lua?
+require("main")
